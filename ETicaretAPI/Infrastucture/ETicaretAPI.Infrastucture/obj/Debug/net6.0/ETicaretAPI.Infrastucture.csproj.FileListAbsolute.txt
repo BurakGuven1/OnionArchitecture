@@ -1,0 +1,17 @@
+C:\Users\burak\Desktop\ETicaretAPI\ETicaretAPI\Infrastucture\ETicaretAPI.Infrastucture\bin\Debug\net6.0\ETicaretAPI.Infrastucture.deps.json
+C:\Users\burak\Desktop\ETicaretAPI\ETicaretAPI\Infrastucture\ETicaretAPI.Infrastucture\bin\Debug\net6.0\ETicaretAPI.Infrastucture.dll
+C:\Users\burak\Desktop\ETicaretAPI\ETicaretAPI\Infrastucture\ETicaretAPI.Infrastucture\bin\Debug\net6.0\ETicaretAPI.Infrastucture.pdb
+C:\Users\burak\Desktop\ETicaretAPI\ETicaretAPI\Infrastucture\ETicaretAPI.Infrastucture\bin\Debug\net6.0\ETicaretAPI.Domain.dll
+C:\Users\burak\Desktop\ETicaretAPI\ETicaretAPI\Infrastucture\ETicaretAPI.Infrastucture\bin\Debug\net6.0\ETicaretAPI.Repository.dll
+C:\Users\burak\Desktop\ETicaretAPI\ETicaretAPI\Infrastucture\ETicaretAPI.Infrastucture\bin\Debug\net6.0\ETicaretAPI.Repository.pdb
+C:\Users\burak\Desktop\ETicaretAPI\ETicaretAPI\Infrastucture\ETicaretAPI.Infrastucture\bin\Debug\net6.0\ETicaretAPI.Domain.pdb
+C:\Users\burak\Desktop\ETicaretAPI\ETicaretAPI\Infrastucture\ETicaretAPI.Infrastucture\obj\Debug\net6.0\ETicaretAPI.Infrastucture.csproj.AssemblyReference.cache
+C:\Users\burak\Desktop\ETicaretAPI\ETicaretAPI\Infrastucture\ETicaretAPI.Infrastucture\obj\Debug\net6.0\ETicaretAPI.Infrastucture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burak\Desktop\ETicaretAPI\ETicaretAPI\Infrastucture\ETicaretAPI.Infrastucture\obj\Debug\net6.0\ETicaretAPI.Infrastucture.AssemblyInfoInputs.cache
+C:\Users\burak\Desktop\ETicaretAPI\ETicaretAPI\Infrastucture\ETicaretAPI.Infrastucture\obj\Debug\net6.0\ETicaretAPI.Infrastucture.AssemblyInfo.cs
+C:\Users\burak\Desktop\ETicaretAPI\ETicaretAPI\Infrastucture\ETicaretAPI.Infrastucture\obj\Debug\net6.0\ETicaretAPI.Infrastucture.csproj.CoreCompileInputs.cache
+C:\Users\burak\Desktop\ETicaretAPI\ETicaretAPI\Infrastucture\ETicaretAPI.Infrastucture\obj\Debug\net6.0\ETicaretAPI.Infrastucture.csproj.CopyComplete
+C:\Users\burak\Desktop\ETicaretAPI\ETicaretAPI\Infrastucture\ETicaretAPI.Infrastucture\obj\Debug\net6.0\ETicaretAPI.Infrastucture.dll
+C:\Users\burak\Desktop\ETicaretAPI\ETicaretAPI\Infrastucture\ETicaretAPI.Infrastucture\obj\Debug\net6.0\refint\ETicaretAPI.Infrastucture.dll
+C:\Users\burak\Desktop\ETicaretAPI\ETicaretAPI\Infrastucture\ETicaretAPI.Infrastucture\obj\Debug\net6.0\ETicaretAPI.Infrastucture.pdb
+C:\Users\burak\Desktop\ETicaretAPI\ETicaretAPI\Infrastucture\ETicaretAPI.Infrastucture\obj\Debug\net6.0\ref\ETicaretAPI.Infrastucture.dll
